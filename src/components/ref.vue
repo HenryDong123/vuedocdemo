@@ -9,7 +9,8 @@ export default {
   name: "ref",
   data() {
     return {
-      number: 0
+      number: 0,
+      a: true
     };
   },
   methods: {
